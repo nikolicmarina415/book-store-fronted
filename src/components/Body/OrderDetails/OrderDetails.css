@@ -1,0 +1,16 @@
+.OrderDetails {
+    text-align: center;
+}
+
+.quantity {
+    margin-top: 1em;
+}
+
+.total-order-price {
+    margin-top: 5em;
+    font-size: 3em;
+}
+
+#order-attributes {
+    margin-top: 10em;
+}

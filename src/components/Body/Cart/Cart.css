@@ -1,0 +1,28 @@
+.Cart {
+    text-align: center;
+}
+
+.book-amount {
+    margin-top: 1em;
+}
+
+.total-cart-amount {
+    margin-top: 5em;
+    font-size: 3em;
+}
+
+.btn-checkout {
+    margin-top: 8.5em;
+    font-size: 2em !important;
+    min-width: 300px;
+    min-height: 100px;
+}
+
+.alert {
+    margin-top: 1em;
+}
+
+.cart-empty {
+    margin-top: 5em;
+    font-size: 3em;
+}

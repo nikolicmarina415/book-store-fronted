@@ -1,0 +1,35 @@
+.Book {
+    text-align: center;
+    padding: 0.5em;
+    border-radius: 3%;
+    position: relative;
+}
+
+.Book:hover {
+    background-color: rgb(65, 160, 238);
+}
+
+.book-image {
+    min-width: 100px;
+    max-width: 100px;
+    min-height: 75px;
+    max-height: 75px;
+}
+
+.add-book-container {
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 75%;
+}
+
+.remove-book-container {
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 5%;
+}
+
+.book-button {
+    min-width: 2em;
+}

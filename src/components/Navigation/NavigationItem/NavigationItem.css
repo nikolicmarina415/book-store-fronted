@@ -1,0 +1,26 @@
+.NavigationItem {
+    text-align: center;
+    margin-left: 5px;
+}
+
+.custom-link {
+    color: white;
+    text-decoration: none;
+}
+
+.custom-link:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link-clicked {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.bold-text {
+    color: black;
+    font-weight: bold;
+}

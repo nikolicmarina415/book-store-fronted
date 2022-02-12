@@ -1,0 +1,8 @@
+.Filters {
+    text-align: center;
+    position: fixed;
+}
+
+.offset-bottom {
+    margin-bottom: 2em;
+}

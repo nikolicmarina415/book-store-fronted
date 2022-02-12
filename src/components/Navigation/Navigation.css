@@ -1,0 +1,19 @@
+.Navigation {
+    text-align: center;
+    top: 5em;
+    padding: 0.5em;
+    margin-bottom: 4em;
+    background-color: rgb(65, 160, 238);
+    position: fixed;
+    left: 0;
+    top: 4.5em;
+    width: 100%;
+    z-index: 4;
+}
+
+@media screen and (max-width: 991px) {
+    .Navigation {
+        top: 13em;
+    }
+}
+  

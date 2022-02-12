@@ -1,0 +1,40 @@
+.Header {
+    background-color: rgba(222, 191, 213);
+    text-align: center;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 5;
+}
+
+.e-book-logo {
+    width: 3em;
+    height: 3em;
+}
+
+.e-book-text {
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.username-text {
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    margin-top: 20px;
+}
+
+.cart-logo {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 57%;
+    color: black;
+}
+
+.logout {
+    margin-top: 15px;
+}

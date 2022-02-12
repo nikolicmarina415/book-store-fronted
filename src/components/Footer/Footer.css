@@ -1,0 +1,13 @@
+.Footer {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(222, 191, 213);
+    font-size: 1em;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    padding: 0.5em;
+}

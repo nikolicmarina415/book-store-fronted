@@ -1,0 +1,19 @@
+.Home {
+    text-align: center;
+}
+
+.book-home-image {
+    max-width: 500px;
+    max-height: 350px;
+    margin-top: 8em;
+}
+
+.general-text {
+    margin-top: 5em;
+    margin-bottom: 5em;
+    font-size: 18px;
+}
+
+.about-text {
+    font-size: 18px;
+}

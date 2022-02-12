@@ -1,0 +1,10 @@
+.book-image {
+    min-width: 100px;
+    max-width: 100px;
+    min-height: 75px;
+    max-height: 75px;
+}
+
+.btn-create {
+    margin-top: 20px;
+}
